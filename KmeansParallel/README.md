@@ -1,0 +1,2 @@
+# KmeansParallel
+Implementation of parallel k-means clustering algorithm and application to image compression (by performing k-means clustering on pixel colors). Parallelizing computation of distances to compute nearest centroids and updating of the centroids. Application – using k Means clustering to compress digital image via a mapping of image color space to k clusters. Completed as weekly assignment in online course in Parallel programming in Scala
